@@ -1,1 +1,14 @@
-
+<?xml version="1.0"?>
+<bug_report>
+  <Author>Vadim Ksendzov</Author>
+  <Bug_id>1</Bug_id>
+  <Title>The SAVE DATA button is smaller than the others</Title>
+  <Severity>trivial</Severity>
+  <Priority>low</Priority>
+  <Environment>Xiaomi Redmi S2, android 9 PKQ1.181203.001, MIUI global 12.0.1</Environment>
+  <Precondition>Open the app</Precondition>
+  <STR>Check the UI</STR>
+  <AR>The SAVE DATA button is smaller than the others</AR>
+  <ER>The application buttons have one view</ER>
+  <Attachments>https://drive.google.com/file/d/1ehl6btawxi2NbNtwKYwE4VhvKWUaWL_M/view?usp=sharing</Attachments>
+</bug_report>
